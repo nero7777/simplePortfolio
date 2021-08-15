@@ -134,7 +134,7 @@ header{
     background-size: cover;
 }
 #landing-page{
-    background-image: url(images/landingpageConstructionCompany.PNG);
+    background-image: url(images/projectupdate.PNG);
     background-size: cover;
 }
 #todo-app{
@@ -248,7 +248,7 @@ footer{
     }
     .square{
         width: 48%;
-        margin: 1%;
+        /* margin: 1%; */
         height: 600px;
     }
 }
